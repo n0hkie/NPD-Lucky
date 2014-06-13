@@ -1,0 +1,21 @@
+.content{
+	margin-top:5%;
+}
+.div-top{
+	margin-bottom:10px;
+}
+.div-selgame{
+	float:left;
+	margin-right:10px;
+}
+.div-progressbar{
+	width:100%;
+	height:10px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.progressbar{
+	width:0%;
+	height:10px;
+	background:#357EBD;
+}
